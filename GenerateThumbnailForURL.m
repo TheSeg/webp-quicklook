@@ -1,3 +1,4 @@
+#import "GenerateThumbnailForURL.h"
 #import <Foundation/Foundation.h>
 #import <CoreFoundation/CoreFoundation.h>
 #import <CoreServices/CoreServices.h>

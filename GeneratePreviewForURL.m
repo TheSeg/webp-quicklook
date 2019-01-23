@@ -1,3 +1,4 @@
+#import "GeneratePreviewForURL.h"
 #import <Foundation/Foundation.h>
 #include <CoreFoundation/CoreFoundation.h>
 #include <CoreServices/CoreServices.h>
